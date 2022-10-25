@@ -1,5 +1,5 @@
-# BasicSIRModel
-This project contains a basic SIR model, with build in plotting. A companion blog post for this project can be found <a href="https://mattravenhall.github.io/2018/01/02/SIR-Model.html">here</a>.
+# SIR Model for Traffic Analysis
+This project extends from the application of SIR model in epidemics into traffic analysis. A companion blog post for a basic SIR model can be found <a href="https://mattravenhall.github.io/2018/01/02/SIR-Model.html">here</a>.
 
 ## Running the model
 ```python
