@@ -1,0 +1,3 @@
+[submodule "param-estimation-SIR"]
+	path = param-estimation-SIR
+	url = git@github.com:CarlQGan/param-estimation-SIR.git
